@@ -1,7 +1,7 @@
 # ADBN-🇳ewz: News on the Go
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.9](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 <img src="https://github.com/Daniel-V-Richardson/ADBN-Newz/blob/main/thumb.jpg">
 
