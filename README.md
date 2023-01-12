@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Daniel-V-Richardson/ADBN-Newz/blob/main/thumb.jpg">
 
-## [Demo of App](https://share.streamlit.io/spidy20/innews/App.py)
+## [Demo of App]()
 
 ## Source
 - For summarizing the news I have used [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
